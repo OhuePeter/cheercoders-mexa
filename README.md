@@ -1,2 +1,2 @@
 # cheercoders-mexa
-This is the "cheercoders" team's innovative approach to tackling mental health challenges through AI-powered measurement and intervention.
+This repository houses the "cheercoders" team's comprehensive research and development efforts aimed at addressing mental health issues. By leveraging the power of AI, the team is pioneering new methods for measuring and monitoring mental health, ultimately leading to more effective interventions and support.
